@@ -1,1 +1,2 @@
 # Bouncing-Ball
+This is an animation of a circle moving around the screen at a constant velocity vector. If the circle hits any of the four walls of the window, it should bounce off of the wall, in a natural reflection bounce. If the user clicks on the screen with a left mouse click (mouse button 1), move the circle to the location of the click, and give it a new random velocity vector (make your randomness within a reasonable range). 
